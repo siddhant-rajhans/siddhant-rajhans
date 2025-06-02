@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi, I'm Siddhant Rajhans, a CS undergrad with a passion for Machine Learning. I'm fascinated by its potential to transform industries and improve lives. Currently, I'm working on research papers focused on implementing ML algorithms to tackle real-world problems.<br><br>When I'm not coding or researching, I'm learning new concepts, reading about the latest AI developments, or brainstorming ideas for my next project. I'm excited to collaborate with like-minded individuals and showcase my projects on GitHub 💻
+Hi, I'm Siddhant Rajhans, a ML grad with a passion for BME. I'm fascinated by its potential to transform industries and improve lives. Currently, I'm working on papers focused on implementing ML algorithms to tackle real-world problems.<br><br>When I'm not coding or researching, I'm learning new concepts, reading about the latest AI developments, or brainstorming ideas for my next project. I'm excited to collaborate with like-minded individuals and showcase my projects on GitHub 💻
 
 
 ## 🌐 Socials:
