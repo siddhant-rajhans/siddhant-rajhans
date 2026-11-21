@@ -1,6 +1,6 @@
 # Siddhant Rajhans
 
-ML engineer working on LLM training, inference and evaluation infrastructure. Grad student at Stevens. I fix bugs in the libraries people train and serve models with, and build tools around brain encoding and model evaluation.
+ML engineer working on AI security and LLM evaluation, plus the training and inference infrastructure they run on. Grad student at Stevens. I fix bugs in the libraries people train and serve models with, and build tools around brain encoding and model evaluation.
 
 ## Merged upstream
 
@@ -11,6 +11,7 @@ ML engineer working on LLM training, inference and evaluation infrastructure. Gr
 | NVIDIA Megatron-Bridge | [Keep the checkpoint's RoPE in config-only HF export](https://github.com/NVIDIA-NeMo/Megatron-Bridge/pull/6883) |
 | NVIDIA Megatron-Bridge | [Pad the vocabulary when conversion TP does not divide it](https://github.com/NVIDIA-NeMo/Megatron-Bridge/pull/6896) |
 | NVIDIA TransformerEngine | [Fix RecursionError for ops on CPU-resident QuantizedTensors](https://github.com/NVIDIA/TransformerEngine/pull/3812) |
+| NVIDIA TensorRT-LLM | [Read raw logprobs from the logits before penalties and token bans](https://github.com/NVIDIA/TensorRT-LLM/pull/22303) |
 | NVIDIA NeMo Agent Toolkit | [Keep red teaming results when the evaluator fails](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2610), [judge parser score recovery](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2612), [target_field validation](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2620) |
 | NVIDIA Dynamo | [Render Hugging Face named chat templates](https://github.com/ai-dynamo/frontend-crates/pull/609) |
 
