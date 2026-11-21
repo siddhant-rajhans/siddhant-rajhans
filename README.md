@@ -10,9 +10,10 @@ ML engineer working on AI security and LLM evaluation, plus the training and inf
 | NVIDIA Megatron-Bridge | [Dequantize fine-grained FP8 weights on import for every bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge/pull/6882) |
 | NVIDIA Megatron-Bridge | [Keep the checkpoint's RoPE in config-only HF export](https://github.com/NVIDIA-NeMo/Megatron-Bridge/pull/6883) |
 | NVIDIA Megatron-Bridge | [Pad the vocabulary when conversion TP does not divide it](https://github.com/NVIDIA-NeMo/Megatron-Bridge/pull/6896) |
-| NVIDIA TransformerEngine | [Fix RecursionError for ops on CPU-resident QuantizedTensors](https://github.com/NVIDIA/TransformerEngine/pull/3812) |
+| NVIDIA TransformerEngine | [Fix RecursionError for ops on CPU-resident QuantizedTensors](https://github.com/NVIDIA/TransformerEngine/pull/3812), [check that grouped GEMM matrix pointers are 16-byte aligned](https://github.com/NVIDIA/TransformerEngine/pull/3845) |
 | NVIDIA TensorRT-LLM | [Read raw logprobs from the logits before penalties and token bans](https://github.com/NVIDIA/TensorRT-LLM/pull/22303) |
 | NVIDIA NeMo Agent Toolkit | [Keep red teaming results when the evaluator fails](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2610), [judge parser score recovery](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2612), [target_field validation](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2620) |
+| Microsoft PyRIT | [Count each jailbroken response once in FuzzerGenerator](https://github.com/microsoft/PyRIT/pull/4231) |
 | NVIDIA Dynamo | [Render Hugging Face named chat templates](https://github.com/ai-dynamo/frontend-crates/pull/609) |
 
 In review: vLLM, SGLang, TensorRT-LLM, Megatron-LM, PyTorch, Triton, kvpress, PyRIT.
